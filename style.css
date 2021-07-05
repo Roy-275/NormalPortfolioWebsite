@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    width: 80%;
+    margin: auto;
+}
+h1{
+    font-size: 48;
+    font-family: 'Fjalla One', sans-serif;
+    margin: 30px 0;
+}
+.name{
+    color: rgb(247, 127, 57);
+}
+p{
+    text-align: justify;
+    font-size: 24px;
+    font-family: 'Rum Raisin', sans-serif;
+}
